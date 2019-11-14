@@ -1,3 +1,6 @@
 body{
-background-color: inherit;
+background-color: blue;
+}
+h1{
+  text-decoration: underline;
 }
