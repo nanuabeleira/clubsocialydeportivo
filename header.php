@@ -32,7 +32,7 @@ Perfil de Usuario>
         <a class="nav-link" href="#">F.A.Q.</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Formulario de Registro</a>
+        <a class="nav-link" href=registro/regform.php>Formulario de Registro</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Login</a>
