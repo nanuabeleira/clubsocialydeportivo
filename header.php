@@ -11,7 +11,7 @@
 <body>
 <header>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="index.php">Navbar</a>
+  <a class="navbar-brand" href="index.php">MARCA O LOGO</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -24,7 +24,7 @@
         <a class="nav-link" href="preguntasyrespuestas.php">F.A.Q.</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href=registro/regform.php>Formulario de Registro</a>
+        <a class="nav-link" href="./registro/regform.php">Formulario de Registro</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Login</a>
