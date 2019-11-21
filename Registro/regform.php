@@ -9,7 +9,7 @@
   </body>
 </html>
 <?php
-include_once("header.php");
+include_once("../header.php");
  ?>
 <form>
   <div class="form-group">
@@ -28,5 +28,5 @@ include_once("header.php");
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>
 <?php
-include_once("footer.php")
+include_once("../footer.php")
  ?>

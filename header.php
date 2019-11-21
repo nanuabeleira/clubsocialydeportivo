@@ -11,7 +11,7 @@
 <body>
 <header>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="index.php">MARCA O LOGO</a>
+  <a class="navbar-brand" href="index.php"> <img src="images/logo.png" width="52" height="52" alt="" style="max-height: 52px; height: auto;" class="fusion-logo-2x fusion-mobile-logo-2x"></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -21,19 +21,19 @@
         <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="preguntasyrespuestas.php">F.A.Q.</a>
+        <a class="nav-link" href="faq.php">F.A.Q.</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="./registro/regform.php">Formulario de Registro</a>
+        <a class="nav-link" href="regform.php">Formulario de Registro</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Login</a>
+        <a class="nav-link" href="login.php">Login</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Contacto</a>
+        <a class="nav-link" href="contacto.php">Contacto</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Perfil del usuario</a>
+        <a class="nav-link" href="userprofile.php">Perfil del usuario</a>
       </li>
     </ul>
   </div>
